@@ -13,7 +13,7 @@ public class Item {
     @Column(name = "ITEM_ID")
     private Long id;
     private String name;
-    private int prive;
+    private int price;
     private int stockQuantity;
 
     public void setId(Long id) {
@@ -24,8 +24,8 @@ public class Item {
         this.name = name;
     }
 
-    public void setPrive(int prive) {
-        this.prive = prive;
+    public void setPrice(int price) {
+        this.price = price;
     }
 
     public void setStockQuantity(int stockQuantity) {
@@ -40,8 +40,8 @@ public class Item {
         return name;
     }
 
-    public int getPrive() {
-        return prive;
+    public int getPrice() {
+        return price;
     }
 
     public int getStockQuantity() {
