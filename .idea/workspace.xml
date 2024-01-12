@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="추가 데이터 업로드">
+    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="지연 로딩으로 모두 변경, Cascade 설정 완료">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <updated>1704962485909</updated>
       <workItem from="1704962487024" duration="7045000" />
       <workItem from="1705023193016" duration="1798000" />
-      <workItem from="1705034815601" duration="2721000" />
+      <workItem from="1705034815601" duration="4683000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -125,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705036077818</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="지연 로딩으로 모두 변경, Cascade 설정 완료">
+      <option name="closed" value="true" />
+      <created>1705049339391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705049339392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
     <MESSAGE value="연관관계 맵핑" />
     <MESSAGE value="고급 맵핑, 상속관계 맵핑 실습" />
     <MESSAGE value="추가 데이터 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="추가 데이터 업로드" />
+    <MESSAGE value="지연 로딩으로 모두 변경, Cascade 설정 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="지연 로딩으로 모두 변경, Cascade 설정 완료" />
   </component>
 </project>
