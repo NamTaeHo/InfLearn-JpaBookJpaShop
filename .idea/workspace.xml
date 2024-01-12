@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="연관관계 맵핑">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/JpaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Item.java" afterDir="false" />
-    </list>
+    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="고급 맵핑, 상속관계 맵핑 실습" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +77,7 @@
       <updated>1704962485909</updated>
       <workItem from="1704962487024" duration="7045000" />
       <workItem from="1705023193016" duration="1798000" />
-      <workItem from="1705034815601" duration="760000" />
+      <workItem from="1705034815601" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -111,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704975278425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="고급 맵핑, 상속관계 맵핑 실습">
+      <option name="closed" value="true" />
+      <created>1705036052400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705036052400</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +121,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="요구사항 분석과 기본 매핑" />
     <MESSAGE value="연관관계 맵핑" />
-    <option name="LAST_COMMIT_MESSAGE" value="연관관계 맵핑" />
+    <MESSAGE value="고급 맵핑, 상속관계 맵핑 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="고급 맵핑, 상속관계 맵핑 실습" />
   </component>
 </project>
