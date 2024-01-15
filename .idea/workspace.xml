@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="지연 로딩으로 모두 변경, Cascade 설정 완료">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
-    </list>
+    <list default="true" id="68930ef1-f782-44f8-bd81-4793f6aa4632" name="Changes" comment="값타입 실전 예쩨" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +77,7 @@
       <updated>1704962485909</updated>
       <workItem from="1704962487024" duration="7045000" />
       <workItem from="1705023193016" duration="1798000" />
-      <workItem from="1705034815601" duration="4683000" />
+      <workItem from="1705034815601" duration="5368000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -132,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705049339392</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="값타입 실전 예쩨">
+      <option name="closed" value="true" />
+      <created>1705063832925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705063832925</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +148,7 @@
     <MESSAGE value="고급 맵핑, 상속관계 맵핑 실습" />
     <MESSAGE value="추가 데이터 업로드" />
     <MESSAGE value="지연 로딩으로 모두 변경, Cascade 설정 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="지연 로딩으로 모두 변경, Cascade 설정 완료" />
+    <MESSAGE value="값타입 실전 예쩨" />
+    <option name="LAST_COMMIT_MESSAGE" value="값타입 실전 예쩨" />
   </component>
 </project>
